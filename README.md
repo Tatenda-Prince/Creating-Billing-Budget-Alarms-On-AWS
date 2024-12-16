@@ -66,7 +66,7 @@ You should now be able to see your newly created billing budget in the Budgets O
 # Create Billing Alarm with Amazon CloudWatch
 Navigate to Amazon CloudWatch service in the Management Console, click “Billing” on the left pane, then click “Create alarm”.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Creating-Billing-Budget-Alarms-On-AWS/blob/fd2299c42341ec17c5296649ee98cc1816bb7a5e/Screenshot%202024-12-16%20171102.png)
 
 Click “Select metric”, then click “Billing”. Click “Total Estimated Charge”, select “USD”, then click “Select metric”.
 
