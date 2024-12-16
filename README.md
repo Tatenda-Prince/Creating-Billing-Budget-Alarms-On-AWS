@@ -26,7 +26,7 @@ Log into your AWS root account, click the root account name on the top right of 
 
 Scroll down to “IAM User and Role Access to Billing Information”, then click “Edit” on the right side. Select “Activate IAM Access”, then click “Update”.
 
-![image alt]() 
+![image alt](https://github.com/Tatenda-Prince/Creating-Billing-Budget-Alarms-On-AWS/blob/90f090e5cbcf5e3bf67b7cdf8e6d174c7f52e6a0/Screenshot%202024-12-16%20165526.png) 
 
 Now let’s proceed to update our billing preferences.
 
