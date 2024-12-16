@@ -70,9 +70,12 @@ Navigate to Amazon CloudWatch service in the Management Console, click “Billin
 
 Click “Select metric”, then click “Billing”. Click “Total Estimated Charge”, select “USD”, then click “Select metric”.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Creating-Billing-Budget-Alarms-On-AWS/blob/acb95ce741ec09823a794fbdc2a8dddf66e96bc6/Screenshot%202024-12-16%20171449.png)
 
 Leave the “Metric” configurations as default, scroll down and choose a static threshold type. Set conditions whenever estimated charges are “Greater/Equal” and the threshold value to 10 USD, then click “Next”.
+
+![image alt]()
+
 
 
 
