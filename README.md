@@ -22,4 +22,17 @@ You are a Cloud SysOps Administrator working for Tatenda TECH. Your manager has 
 # Enable billing access for IAM users and update billing preferences
 Log into your AWS root account, click the root account name on the top right of the Management Console, then click “Account”.
 
+![image alt](https://github.com/Tatenda-Prince/Creating-Billing-Budget-Alarms-On-AWS/blob/a6f2c49a61e6e7bb220d23eede4d19df078cd396/Screenshot%202024-12-16%20165338.png)
+
+Scroll down to “IAM User and Role Access to Billing Information”, then click “Edit” on the right side. Select “Activate IAM Access”, then click “Update”.
+
+![image alt]() 
+
+Now let’s proceed to update our billing preferences.
+
+Scroll up and click “Billing preferences” on the left pane.
+
 ![image alt]()
+
+
+
