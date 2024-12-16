@@ -78,9 +78,11 @@ Leave the “Metric” configurations as default, scroll down and choose a stati
 
 Scroll down, click “Next”, then give the alarm a name and description.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Creating-Billing-Budget-Alarms-On-AWS/blob/13c581d673e1ae0cf365681b3566e279376a7bea/Screenshot%202024-12-16%20171857.png)
 
 Click “Next” again, scroll down, then click “Create alarm”.
+
+![image alt]()
 
 
 
