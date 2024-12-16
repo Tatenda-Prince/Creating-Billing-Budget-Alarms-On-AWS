@@ -32,7 +32,21 @@ Now let’s proceed to update our billing preferences.
 
 Scroll up and click “Billing preferences” on the left pane.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Creating-Billing-Budget-Alarms-On-AWS/blob/f2f1fefee7314e01871167ae94c6de3fa28b94a8/Screenshot%202024-12-16%20165730.png)
+
+Now that we’ve enabled billing access for IAM users and updated billing preferences, we can proceed to actually creating the billing budgets and billing alarms.
+
+# Create Billing Budgets with AWS Budgets
+
+Sign into you IAM account, click the IAM account name on the top right of the Management Console, then click “Account”.
+
+![image alt](https://github.com/Tatenda-Prince/Creating-Billing-Budget-Alarms-On-AWS/blob/a6f2c49a61e6e7bb220d23eede4d19df078cd396/Screenshot%202024-12-16%20165338.png) 
+
+Navigate to the left pane, click “Budgets”, then click “Create budget”.
+
+![image alt]() 
+
+
 
 
 
