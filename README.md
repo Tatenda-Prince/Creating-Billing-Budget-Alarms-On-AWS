@@ -48,7 +48,7 @@ Navigate to the left pane, click “Budgets”, then click “Create budget”.
 
 For “Budget setup”, we will use a simplified template and select “Monthly cost budget”.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Creating-Billing-Budget-Alarms-On-AWS/blob/7d8b2388d3d00e5abd589694fdec42055d62ea8d/Screenshot%202024-12-16%20170710.png)
 
 Give the Budget a name, enter the budget amount, then type in the email address of the recipients to be notified when the threshold is exceeded.
 
